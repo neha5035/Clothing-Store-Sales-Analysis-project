@@ -2,6 +2,8 @@
 
 The primary objective of this project is to examine & understand annual sales of a clothing store and understand consumer preferences in diverse product categories to scale up the sales.
 
+Tools used: Microsoft Excel
+
 Steps includes:
 1. Data Cleaning
 2. Data formatting 
